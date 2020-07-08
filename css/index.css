@@ -1093,6 +1093,12 @@ img{
 }
 .home2-part2 .home2-part2-list1{
     float:left;
+    height: 325px;
+    background: #605751;
+    margin-bottom: 12px;
+}
+li.home2-part2-list-li {
+    background: #8c13a5;
 }
 .home2-part2 .home2-part2-list1 li{
     float:left;
